@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "text": "Task 1",
+      "day": "1900-01-01",
+      "reminder": false,
+      "id": 1,
+      "complete": false
+    },
+    {
+      "text": "Task 2",
+      "day": "1901-02-02",
+      "reminder": true,
+      "id": 2,
+      "complete": false
+    },
+    {
+      "text": "Task 3",
+      "day": "1903-03-03",
+      "reminder": false,
+      "id": 3,
+      "complete": true
+    },
+    {
+      "text": "asdasd",
+      "day": "1111-11-11",
+      "reminder": true,
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
